@@ -1,0 +1,15 @@
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand" routerLink="/">
+    VoteChain
+  </a>
+
+  <div>
+    <button class="btn btn-outline-light" routerLink = "/settings">Settings</button>
+    &nbsp; <!--non-breaking space-->
+    <div class="button btn btn-outline-light" routerLink = "/new/vote">Create Vote</div>
+    &nbsp; <!--non-breaking space-->
+    <div class="button btn btn-outline-light" routerLink = "/new/vote/pending">Pending Votes</div>
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
