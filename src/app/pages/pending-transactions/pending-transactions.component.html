@@ -1,0 +1,11 @@
+<div class="container">
+    <h1>Pending Votes</h1>
+
+    <app-votes-table
+        [votes] = "pendingVotes"
+    ></app-votes-table>
+    
+    <button class="btn btn-primary" (click)= "minePendingVotes()">
+        Start Mining
+    </button>
+</div>
