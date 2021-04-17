@@ -9,4 +9,4 @@ The create vote page is where you create your vote. When you create a vote it wi
 
 The pending votes page is where you can mine the votes that werent processed. Mining encrypts the votes to locked inside the blockchain so it would need be changed or manipulated.
 
-https://vigilant-leavitt-4133eb.netlify.app/
+
