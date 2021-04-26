@@ -1,4 +1,4 @@
-# Blockchain
+# Blockchain, Etherum
 This project is a blockchain voting system. You are allow to make a vote, add multiple votes into a block, mine the block into the chain, and adjust the mining difficulty to secure the application.This website has four different pages, the home page, the settings page, the create vote page, and the pending votes page.
 
 The home page is where you can visualize the block chain, as well as visualize the transaction within the blockchain. The Block on Chain represents the actual visual of what the blockchain looks like and what blocks are in the chain.
